@@ -127,4 +127,4 @@ This project demonstrates how to integrate **AI APIs, payment gateways, authenti
 ---
 
 ### 👨‍💻 Author
-Built with ❤️ by *Mrityunjay Gupta*  
+Built with ❤️ by *Md Nomaan Zeya*  
